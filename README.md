@@ -5,10 +5,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/MRXTOOR?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/MRXTOOR?style=social)
 
+</div>
+
 ## 🎯 Обо мне
 
 Разработчик с широким спектром интересов в различных технологиях и языках программирования. Создаю проекты от низкоуровневых системных утилит до высокоуровневых веб-приложений.
-
 
 ## 💻 Технологии и языки
 
@@ -59,6 +60,7 @@
 ### 📚 Документация
 - **[Artemida_Docs](https://github.com/MRXTOOR/Artemida_Docs)** - Детальная документация к проекту Artemida
 
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRXTOOR&layout=compact&theme=radical&hide_border=true)
 
