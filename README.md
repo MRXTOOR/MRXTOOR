@@ -5,12 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/MRXTOOR?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/MRXTOOR?style=social)
 
-**Разработчик из Ростова-на-Дону** 🏙️
-
-[![GitHub](https://img.shields.io/badge/GitHub-MRXTOOR-181717?style=flat&logo=github)](https://github.com/MRXTOOR)
-
-</div>
-
 ## 🎯 Обо мне
 
 Разработчик с широким спектром интересов в различных технологиях и языках программирования. Создаю проекты от низкоуровневых системных утилит до высокоуровневых веб-приложений.
@@ -65,11 +59,6 @@
 ### 📚 Документация
 - **[Artemida_Docs](https://github.com/MRXTOOR/Artemida_Docs)** - Детальная документация к проекту Artemida
 
-## 📊 Статистика GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MRXTOOR&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRXTOOR&layout=compact&theme=radical&hide_border=true)
 
